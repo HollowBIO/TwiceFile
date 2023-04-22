@@ -28,5 +28,7 @@ int main() {
 	Nums.close();
 	TwiceNums.close();
 
+	cout << "git test\n";
+
 	return 0;
 }
